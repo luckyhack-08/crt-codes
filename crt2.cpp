@@ -1,8 +1,8 @@
 // find greater b/w 3 no using nested loop
-
 #include <iostream>
 using namespace std;
 int main(){
+
 int a,b,c;
 cout<<"enter 3 distinct no.";
 cin>>a>>b>>c;
